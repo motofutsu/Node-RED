@@ -28,7 +28,12 @@ $ google-chrome http://localhost:1880
 ----
 ・ファイルは~/.node-red/配下
 
-
-■あると便利
-
 $ sudo apt-get install jq
+
+https://flxy.jp/article/2756
+
+https://flxy.jp/article/2903
+
+https://flxy.jp/article/2963
+
+https://flxy.jp/article/3103
