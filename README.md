@@ -1,5 +1,4 @@
 # Node-RED Tips
-
 Node-RED　環境構築
 
 ※構築環境のOSはUbuntu18.04
@@ -7,7 +6,8 @@ Node-RED　環境構築
 ※ベース環境やアップデートにより版数やコマンドが変わる可能性あります
 
 ----
-■Node-REDインストール
+# ■Node-REDインストール
+$ sudo apt-get update
 
 $ sudo apt-get install npm
 
@@ -19,7 +19,7 @@ $ node -v
 
 $ node-red
 
-ブラウザ
+下記URLをブラウザで立ち上げる
 
 http://localhost:1880
 
