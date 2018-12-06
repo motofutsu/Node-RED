@@ -1,6 +1,6 @@
 # Node-RED Tips
 
-Go言語/GOBOT　環境構築
+Node-RED　環境構築
 
 ※構築環境のOSはUbuntu18.04
 
