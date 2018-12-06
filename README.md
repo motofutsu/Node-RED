@@ -19,9 +19,11 @@ $ node -v
 
 $ node-red
 
-下記URLをブラウザで立ち上げる
+$ firefox http://localhost:1880
 
-http://localhost:1880
+or
+
+$ google-chrome http://localhost:1880
 
 ----
 ■あると便利
