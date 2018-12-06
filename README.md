@@ -26,6 +26,9 @@ or
 $ google-chrome http://localhost:1880
 
 ----
+・ファイルは~/.node-red/配下
+
+
 ■あると便利
 
 $ sudo apt-get install jq
