@@ -23,7 +23,7 @@ $ firefox http://localhost:1880
 
 or
 
-$ google-chrome http://localhost:1880
+$ google-chrome --new-window http://localhost:1880
 
 ----
 ・ファイルは~/.node-red/配下
